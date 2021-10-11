@@ -1,4 +1,2 @@
-# Folder-Maze
-Folder Maze - Game From easygames (PLAY ONLINE)
-
-Go Through all the files Once you find the hidden Text You win! :)
+# EasyG Security
+You can download this & Keep your website from Robots. This is a simple Security Method Introduced by Easygames
